@@ -1,0 +1,5 @@
+```.env
+FRONTEND_URL=
+PORT=
+FIREBASE_ADMIN=
+```
