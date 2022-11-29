@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx ts-node ./src/index.ts -y",
-    "server": "npx ts-node ./src/index.ts -y",
+    "start": "ts-node ./src/index.ts",
+    "server": "ts-node ./src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon",
-    "build": "npx tsc -y"
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
